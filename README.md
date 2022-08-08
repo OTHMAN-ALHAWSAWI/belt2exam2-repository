@@ -30,7 +30,6 @@ NAME of your Uni
 LIST of award
 
 
-
 ## Publications
 
 Gait analysis based human recognition system `April 2016`
