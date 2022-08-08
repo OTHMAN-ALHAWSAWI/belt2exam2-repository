@@ -1,5 +1,5 @@
 ---
-# YOUR-NAME (eg. OTHMAN ALHAWSAWI)
+#  (eg. OTHMAN ALHAWSAWI)
 YOUR-introduction
 
 Intermediate experience in network, Java and C
@@ -12,7 +12,7 @@ Intermediate experience in network, Java and C
 
 
 ## Currently
-YOUR-JOB/STUDY
+STUDY
 student under education
 Devops Trainee with SDA
 
@@ -39,7 +39,7 @@ yuc university
 
 
 ## Occupation
-YOUR-job/study
+
 Stodent forever
 
 ## Projects
